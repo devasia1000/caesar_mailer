@@ -1,14 +1,17 @@
 Introduction:
+------------
 
 This is an application developed by me to help professors manage their emails in college classes. Most emails professors send to their students are repetitive (eg: exam annoucements, assignment reminders, etc). This application enables professors to write emails ONCE and use them for all consecutive semesters that they teach the course.
 
 Build Instructions:
+------------------
 
 First, ensure that you have Ant. Ant can be downloaded in Ubuntu by running 'sudo apt-get install ant'
 
 Then, navigate to the root directory of this application and run 'ant'. Ant will use build.xml to build the binaries for this project.
 
 Usage Instructions:
+------------------
 
 In ./dist, you will find the binary executable for this application
 
@@ -17,6 +20,7 @@ Usage #1: java -jar <nameofprogramfile>.jar <email_address> <password> <director
 Usage #2: java -jar <nameofprogramfile>.jar regextest <regexExpression>
 
 Email Files:
+------------
 
 Look at SAMPLE.txt for a sample email file
 
