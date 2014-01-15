@@ -1,0 +1,14 @@
+This application will automatically send emails.
+
+Usage #1: java -jar <nameofprogramfile>.jar <email_address> <password> <directory_of_textfiles> <directory_to_place_files_after_processing>
+
+Usage #2: java -jar <nameofprogramfile>.jar regextest <regexExpression>
+
+A few things to remember:
+
+2) Both the list of adresses and subject MUST be only one line in the text file, the message can take up multiple lines
+3) You can name each of the text files whatever you want, it doesn't matter!
+4) Make sure there are no spaces in the path to <directory_of_textfiles>
+5) Don't shut down your computer right after writing the text files, wait for the emails to be sent (approx 2 mins)
+6) You will need to install Java
+7) Enjoy the program!
