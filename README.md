@@ -15,9 +15,9 @@ Usage Instructions:
 
 In ./dist, you will find the binary executable for this application
 
-Usage #1: java -jar <nameofprogramfile>.jar <email_address> <password> <directory_of_textfiles> <directory_to_place_files_after_processing>
+    Usage #1: java -jar <nameofprogramfile>.jar <email_address> <password> <directory_of_textfiles> <directory_to_place_files_after_processing>
 
-Usage #2: java -jar <nameofprogramfile>.jar regextest <regexExpression>
+    Usage #2: java -jar <nameofprogramfile>.jar regextest <regexExpression>
 
 Email Files:
 ------------
