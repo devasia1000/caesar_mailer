@@ -27,7 +27,9 @@ Look at SAMPLE.txt for a sample email file
 A few things to remember:
 
 1) Both the list of adresses and subject MUST be only one line in the text file, the message can take up multiple lines
+
 2) You can name each of the text files whatever you want, it doesn't matter!
+
 3) Don't shut down your computer right after writing the text files, wait for the emails to be sent (approx 2 mins)
 
 For more information, please contact me at dmanuel2@illinois.edu
